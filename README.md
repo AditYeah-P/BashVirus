@@ -1,4 +1,4 @@
-# BashVirus
+# Department Project - BashVirus - Mentor Dr. Lavanya R
 
 ### A *harmless virus* to spread awareness and troll friends.
 
